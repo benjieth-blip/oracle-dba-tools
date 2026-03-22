@@ -201,8 +201,6 @@ I offer database consulting services for:
 - Index strategy
 - Configuration tuning
 
-**Engagement:** $1,500-5,000 (fixed-price audit)
-
 ---
 
 ### Backup & Disaster Recovery
@@ -211,7 +209,6 @@ I offer database consulting services for:
 - DR testing and documentation
 - Compliance audits (SOX, HIPAA, PCI)
 
-**Engagement:** $2,000-10,000
 
 ---
 
@@ -229,7 +226,6 @@ I offer database consulting services for:
 - Oracle → Azure SQL
 - On-premise → Cloud (AWS, Azure, OCI)
 
-**Engagement:** $15,000-40,000
 
 ---
 
