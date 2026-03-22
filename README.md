@@ -217,8 +217,6 @@ I offer database consulting services for:
 - PostgreSQL: Patroni, streaming replication
 - Azure: Always On, geo-replication
 
-**Engagement:** $5,000-20,000
-
 ---
 
 ### Cloud Migrations
